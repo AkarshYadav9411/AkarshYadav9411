@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  <a href="mailto:akarshy551@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akarshy551%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:akarshyadav421@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akarshyadav421%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/AkarshYadav9411">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -26,7 +26,7 @@
 - 🚀 I love working on real-time systems, API development, and responsive frontends.
 - ⚡ Fun fact: I recently built **[Appi](https://github.com/AkarshYadav9411/Appi)**, a multi-session real-time chat room powered by Spring WebSockets (STOMP) and SockJS!
 - 🔭 I’m currently looking to expand my knowledge in cloud architecture and microservices.
-- 📫 How to reach me: Drop me an email at [akarshy551@gmail.com](mailto:akarshy551@gmail.com).
+- 📫 How to reach me: Drop me an email at [akarshyadav421@gmail.com](mailto:akarshyadav421@gmail.com).
 
 ---
 
@@ -37,7 +37,8 @@
 | **Languages** | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> &nbsp; <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> &nbsp; <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" /> &nbsp; <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> &nbsp; <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> |
 | **Backend Frameworks** | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" /> &nbsp; <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> |
 | **Frontend Utilities** | <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> &nbsp; <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" /> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> &nbsp; <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" /> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> &nbsp; <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> &nbsp; <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" /> |
+| **AI & Concepts** | <img src="https://img.shields.io/badge/Generative_AI-🤖-%238A2BE2.svg?style=flat-square" alt="Generative AI" /> |
 
 ---
 
