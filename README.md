@@ -22,7 +22,7 @@
 
 ### 💫 About Me
 
-- 💻 I specialize in **Java (Spring Boot)**, **JavaScript**, and **Python**.
+- 💻 I specialize in **Java (Spring Boot)**, **JavaScript**, and **Generative AI**.
 - 🚀 I love working on real-time systems, API development, and responsive frontends.
 - ⚡ Fun fact: I recently built **[Appi](https://github.com/AkarshYadav9411/Appi)**, a multi-session real-time chat room powered by Spring WebSockets (STOMP) and SockJS!
 - 🔭 I’m currently looking to expand my knowledge in cloud architecture and microservices.
