@@ -24,7 +24,7 @@
 
 - 💻 I specialize in **Java **,**Python** ,**Artificial Intelligence**, **React js**, **JavaScript**, and **Generative AI**.
 - 🚀 I love working on real-time systems, API development, and responsive frontends.
-- ⚡ Fun fact: I recently built **[Appi](https://github.com/AkarshYadav9411/Ai-Code-Reviewer)**, a multi-session real-time chat room powered by Spring WebSockets (STOMP) and SockJS!
+- ⚡ Fun fact: I recently built **[Ai-Code-Reviewer](https://github.com/AkarshYadav9411/Ai-Code-Reviewer)**, a multi-session real-time review code powered by AI Automation, Python, Ollama.!
 - 🔭 I’m currently looking to expand my knowledge in cloud architecture and microservices.
 - 📫 How to reach me: Drop me an email at [akarshyadav421@gmail.com](mailto:akarshyadav421@gmail.com).
 
