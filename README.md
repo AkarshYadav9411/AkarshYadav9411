@@ -38,7 +38,7 @@
 | **Backend Frameworks** | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" /> &nbsp; <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> |
 | **Frontend Utilities** | <img src="https://img.shields.io/badge/bootstrap-%238511F2.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> &nbsp; <img src="https://img.shields.io/badge/thymeleaf-%23005F0F.svg?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" /> |
 | **DevOps & Tools** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> &nbsp; <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" /> &nbsp; <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> &nbsp; <img src="https://img.shields.io/badge/maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" /> |
-| **AI & Concepts** | <img src="https://img.shields.io/badge/Generative_AI-🤖-%238A2BE2.svg?style=flat-square" alt="Generative AI" /> |
+| **AI & Concepts** | <img src="https://img.shields.io/badge/Generative_AI-🤖-%238A2BE2.svg?style=flat-square" alt="Generative AI" /> &nbsp; 
 
 ---
 
