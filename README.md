@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Akarsh Yadav! 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Software Engineer+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@
 
 ### 💫 About Me
 
-- 💻 I specialize in **Java (Spring Boot)**, **JavaScript**, and **Generative AI**.
+- 💻 I specialize in **Java **,**Python** ,**Artificial Intelligence**, **React js**, **JavaScript**, and **Generative AI**.
 - 🚀 I love working on real-time systems, API development, and responsive frontends.
-- ⚡ Fun fact: I recently built **[Appi](https://github.com/AkarshYadav9411/Appi)**, a multi-session real-time chat room powered by Spring WebSockets (STOMP) and SockJS!
+- ⚡ Fun fact: I recently built **[Appi](https://github.com/AkarshYadav9411/Ai-Code-Reviewer)**, a multi-session real-time chat room powered by Spring WebSockets (STOMP) and SockJS!
 - 🔭 I’m currently looking to expand my knowledge in cloud architecture and microservices.
 - 📫 How to reach me: Drop me an email at [akarshyadav421@gmail.com](mailto:akarshyadav421@gmail.com).
 
@@ -45,6 +45,10 @@
 ### 📂 Featured Projects
 
 Here are some of my personal projects that showcase my development journey:
+#### 💬 [Ai-Code-Reviewer - Real-Time Chat App](https://github.com/AkarshYadav9411/Ai-Code-Reviewer)
+*A lightweight, responsive, and real-time chat application enabling instant bi-directional messaging.*
+- **Tech Stack:** Ollama, python.
+- **Key Feature:** Review your code.
 
 #### 💬 [Appi - Real-Time Chat App](https://github.com/AkarshYadav9411/Appi)
 *A lightweight, responsive, and real-time chat application enabling instant bi-directional messaging.*
